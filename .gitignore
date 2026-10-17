@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.impeccable/review/
+.impeccable/live/
+*.log
+.DS_Store
+qa/out/
+
+# local-only working files
+.impeccable/
+qa/
+PRODUCT.md
+DESIGN.md
+README.md
